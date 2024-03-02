@@ -1,4 +1,5 @@
 Counter Program
+
 The Counter Program is designed to count the frequencies of items in a given input file and provide various functionalities to analyze and manipulate the data. It offers options to search for specific items, print frequencies of all items, and display histograms representing item frequencies.
 
 Summary
