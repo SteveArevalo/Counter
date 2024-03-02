@@ -23,7 +23,7 @@ The Counter Program provides essential functionalities for analyzing item freque
 - Algorithm Complexity: Balancing readability and efficiency while designing the frequency counting algorithms was challenging, requiring careful consideration of performance implications.
 - User Input Handling: Overcoming potential errors and exceptions during user input required thoughtful handling to maintain a smooth user experience and prevent program crashes.
 
-##Transferable Skills
+## Transferable Skills
 
 - Proficiency in C++: Skills gained from this project can be applied to various software development endeavors, enhancing versatility and adaptability.
 - Problem-Solving: Enhanced problem-solving skills, particularly in the domain of data analysis and user interaction, are valuable in diverse contexts.
